@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200635351429",
+    "project_id": "mr-melt-yahia-2026",
+    "storage_bucket": "mr-melt-yahia-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200635351429:android:0a3c27c706b8301dfec4ec",
+        "android_client_info": {
+          "package_name": "com.example.mr_melt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9B72vDrEoYYDO3W9ET3n7FdUNUoQ0r5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
